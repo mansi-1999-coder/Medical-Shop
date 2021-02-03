@@ -1,0 +1,3 @@
+user name=login
+password=login
+dsn= Medical 
