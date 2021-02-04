@@ -13,6 +13,7 @@ namespace Medical_Shop
     public partial class login : Form
     {
         connection con = new connection();
+  
         float firstWidth;
         float firstHeight;
         public login()
