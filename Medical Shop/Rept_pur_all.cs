@@ -7,7 +7,7 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
-1
+
 namespace Medical_Shop {
     using System;
     using System.ComponentModel;
