@@ -87,7 +87,7 @@ namespace Medical_Shop
 
         private void woedToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start("wordpad.exe");a
+            Process.Start("wordpad.exe");
         }
 
         private void calculatorToolStripMenuItem_Click(object sender, EventArgs e)
